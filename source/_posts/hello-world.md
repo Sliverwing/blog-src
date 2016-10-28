@@ -1,38 +1,21 @@
 ---
 title: Hello World
+date: 2016-10-24
+keywords: Sliverwing, Blog
+tag: About
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+# It’s a real Hello World.
 
-## Quick Start
+## 简单介绍一下
 
-### Create a new post
+> 我是 Sliverwing ，程序员。  
+主要写 PHP, Python 。  
+*nix 爱好者。
 
-``` bash
-$ hexo new "My New Post"
-```
+## 为什么写博客：
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+> 防止丧失基本语言输出能力 :_(
 
-### Run server
+## 还有什么要说的？
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+> 今天，大家节日快乐。
